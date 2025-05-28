@@ -13,7 +13,7 @@ A full-stack e-commerce application built with the MERN stack (MongoDB, Express,
 
 ## Installation
 ```bash
-git clone [https://github.com/yourusername/mern-ecommerce-HaatBazar.git](https://github.com/Rayhan-Dodi/mern-haatbazar)
+git clone https://github.com/yourusername/mern-ecommerce-HaatBazar.git
 cd mern-ecommerce-HaatBazar
 npm install
 cd backend
